@@ -1,10 +1,13 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "scraping",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "index.js"
   },
-  "private": true
+  "private": true,
+  "keywords": [],
+  "author": "Shivam",
+  "license": "ISC",
+  "description": "basic of web scraping using node js"
 }
